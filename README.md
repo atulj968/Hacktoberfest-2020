@@ -30,5 +30,11 @@ for example,
 **Let the Hack begin** :octocat:
 
 **After your PR gets merged you check check your name here :-**
+
+```html
+
 https://amohata007.github.io/Hacktoberfest-2020/
+
+```
+
 
