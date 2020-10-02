@@ -29,4 +29,6 @@ for example,
 
 **Let the Hack begin** :octocat:
 
+**After Tour PR gets merged you check check your name here**
+https://amohata007.github.io/Hacktoberfest-2020/
 
